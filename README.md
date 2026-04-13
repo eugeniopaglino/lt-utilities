@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
 
 # Relational Mortality Models: Rates and Counts
 
